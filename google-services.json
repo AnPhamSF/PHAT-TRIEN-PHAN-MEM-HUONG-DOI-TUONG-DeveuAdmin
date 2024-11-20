@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "318519406428",
+    "firebase_url": "https://devedu-ebb1a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "devedu-ebb1a",
+    "storage_bucket": "devedu-ebb1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318519406428:android:fcc924ea526bdda7b81b99",
+        "android_client_info": {
+          "package_name": "com.devedu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_4B_Aag3nDR8LplJhFAGvrK_JxMXJ1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318519406428:android:0c8c31cc5227f205b81b99",
+        "android_client_info": {
+          "package_name": "com.deveduadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_4B_Aag3nDR8LplJhFAGvrK_JxMXJ1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
